@@ -12,7 +12,7 @@ TODOLIST = {
     '2': {'date_create': str(datetime.utcnow()), 'text': 'Kadab', 'date_modificated': str(datetime.utcnow()), 'done': False},
     '3': {'date_create': str(datetime.utcnow()), 'text': 'Rabarf', 'date_modificated': str(datetime.utcnow()), 'done': False},
     '4': {'date_create': str(datetime.utcnow()), 'text': 'vendoring', 'date_modificated': str(datetime.utcnow()), 'done': False},
-    '5': {'date_create': str(datetime.utcnow()), 'text': 'pirsing', 'date_modificated': str(datetime.utcnow()), 'done': False},
+    '5': {'date_create': str(datetime.utcnow()), 'text': 'pisdfds', 'date_modificated': str(datetime.utcnow()), 'done': False},
 }
 
 
